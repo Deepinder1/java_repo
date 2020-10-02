@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87bc181e-57b2-4f7f-af55-5ccb73499088" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="201" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Hello" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="module-info" />
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zlnc22QPmlLtBek5qwkm29wW3r" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/oops" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MyConstructor">
+    <configuration name="EncapsulationIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encapsulations.EncapsulationIntro" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="encapsulations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Introduc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.Introduc" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.MainClass" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.MyConstructor" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.PassByValue" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyConstructor" />
+        <item itemvalue="Application.EncapsulationIntro" />
+        <item itemvalue="Application.PassByValue" />
+        <item itemvalue="Application.Introduc" />
+        <item itemvalue="Application.MainClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87bc181e-57b2-4f7f-af55-5ccb73499088" name="Default Changelist" comment="" />
+      <created>1585422624207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585422624207</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Auto_Import" timestamp="1588689333289">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Auto_Import/0.0.1440.900@0.0.1440.900" timestamp="1588689333289" />
+    <state x="320" y="115" key="#Inspections" timestamp="1593668199399">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1593668199399" />
+    <state x="320" y="115" key="#Live_Templates" timestamp="1588690471584">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Live_Templates/0.0.1440.900@0.0.1440.900" timestamp="1588690471584" />
+    <state x="423" y="127" key="#Main" timestamp="1588616805515">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="423" y="127" key="#Main/0.0.1440.900@0.0.1440.900" timestamp="1588616805515" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588616878541">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1588616878541" />
+    <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1593680099484">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1593680099484" />
+    <state x="508" y="363" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1593667186267">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="508" y="363" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.900@0.0.1440.900" timestamp="1593667186267" />
+    <state x="483" y="328" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1590800068998">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="483" y="328" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900@0.0.1440.900" timestamp="1590800068998" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1593681394298">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593681394298" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1592476133184" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1588763377931" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1589047059701" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1593681394297">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593681394297" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1592476133181" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1588763377930" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1589047059697" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1593681394296">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593681394296" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1592476133179" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1588763377930" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1589047059695" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1593681394297">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593681394297" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1592476133182" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1588763377931" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1589047059699" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1592409792384">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592409792384" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1588763377913" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1592409792381">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1592409792381" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1588763377912" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1592409792380">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1592409792380" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1588763377912" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1592409792383">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1592409792383" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1588763377913" />
+    <state x="229" y="23" width="1024" height="722" key="SettingsEditor" timestamp="1593668582680">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="23" width="1024" height="801" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1593668582680" />
+    <state x="229" y="44" width="1024" height="722" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1588877326111" />
+    <state x="413" y="251" key="com.intellij.ide.util.TipDialog" timestamp="1595584473673">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="413" y="251" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1595584473673" />
+    <state x="329" y="37" width="782" height="825" key="find.popup" timestamp="1593666608289">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="329" y="37" width="782" height="825" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1593666608289" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1588688946745">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1588688946745" />
+    <state x="369" y="184" width="700" height="530" key="recent.locations.popup" timestamp="1588690161715">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="369" y="184" width="700" height="530" key="recent.locations.popup/0.0.1440.900@0.0.1440.900" timestamp="1588690161715" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1590483379631">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1590483379631" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Hello$BubbleSort.ic" NAME="BubbleSort Coverage Results" MODIFIED="1592706356512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>arrays.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Hello$First100PrimeNumbers.ic" NAME="First100PrimeNumbers Coverage Results" MODIFIED="1592358806695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>findingmaths.*</FILTER>
+    </SUITE>
+  </component>
+</project>
